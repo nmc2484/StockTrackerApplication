@@ -1,5 +1,6 @@
 #InteliJ project files
 /*.iml
+.idea/
 #build files
 target/
 #Apple files
