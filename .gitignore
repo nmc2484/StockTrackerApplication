@@ -2,3 +2,9 @@
 /*.iml
 #build files
 target/
+#Apple files
+.DS_Store
+#Pacakge Files
+*.jar
+*.war
+*.ear
